@@ -1,10 +1,11 @@
 # menuswap-legal
 
-Public legal pages for **MenuSwap** (App Store / Play Store privacy policy URL).
+Public legal pages for **MenuSwap** (App Store / Play Store URLs).
 
-## Live URL (after GitHub Pages is on)
+## Live URLs (GitHub Pages)
 
-https://shahramalvi.github.io/menuswap-legal/privacy/
+- Privacy: https://shahramalvi.github.io/menuswap-legal/privacy/
+- Support: https://shahramalvi.github.io/menuswap-legal/support/
 
 ## Enable GitHub Pages
 
@@ -12,5 +13,3 @@ https://shahramalvi.github.io/menuswap-legal/privacy/
 2. **Source**: Deploy from a branch
 3. **Branch**: `main` / `/ (root)`
 4. Save
-
-Use that privacy URL in App Store Connect and in the app’s `PRIVACY_URL`.

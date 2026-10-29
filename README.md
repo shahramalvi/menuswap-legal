@@ -1,6 +1,6 @@
 # menuswap-legal
 
-Public legal pages for **Swapit** (App Store / Play Store privacy policy URL).
+Public legal pages for **MenuSwap** (App Store / Play Store privacy policy URL).
 
 ## Live URL (after GitHub Pages is on)
 

@@ -4,7 +4,7 @@ Last updated: October 20, 2026
 
 ## Who we are
 
-Swapit helps you pick restaurant meals that fit your calorie and protein goals. This policy explains what data we handle and what we do not do.
+MenuSwap helps you pick restaurant meals that fit your calorie and protein goals. This policy explains what data we handle and what we do not do.
 
 ## What we store on your device
 
@@ -12,7 +12,7 @@ Most of your personal data stays on your phone in local storage (AsyncStorage), 
 
 ## Local reminders
 
-If you turn Reminders on in Profile, Swapit schedules local notifications on this device only (meal logging, a Find nudge before ordering, an evening check-in for calories/protein room, and a weekly Insights reminder). These are not remote push from our servers — nothing is sent to us to deliver them. You can turn groups or the master switch off anytime; Delete Account also clears scheduled alerts.
+If you turn Reminders on in Profile, MenuSwap schedules local notifications on this device only (meal logging, a Find nudge before ordering, an evening check-in for calories/protein room, and a weekly Insights reminder). These are not remote push from our servers — nothing is sent to us to deliver them. You can turn groups or the master switch off anytime; Delete Account also clears scheduled alerts.
 
 ## Account & cloud
 
@@ -40,16 +40,16 @@ We do not currently run third-party advertising SDKs or sell ads in the app. We 
 
 ## Children
 
-Swapit is not directed at children under 13 (or the minimum age in your region). Do not use the app if you are under that age.
+MenuSwap is not directed at children under 13 (or the minimum age in your region). Do not use the app if you are under that age.
 
 ## Your choices
 
-You can edit profile details in Profile. You can manage Reminders (or turn them off) in Profile. You can clear food history by deleting meals or using Delete Account. Delete Account permanently removes Swapit data for your account (profile, targets, logs, theme, reminder settings, and related caches), cancels scheduled local alerts, and deletes synced cloud data when you use a cloud account. This cannot be undone.
+You can edit profile details in Profile. You can manage Reminders (or turn them off) in Profile. You can clear food history by deleting meals or using Delete Account. Delete Account permanently removes MenuSwap data for your account (profile, targets, logs, theme, reminder settings, and related caches), cancels scheduled local alerts, and deletes synced cloud data when you use a cloud account. This cannot be undone.
 
 ## Health disclaimer
 
-Swapit is not medical advice. Calorie and protein targets are estimates from formulas and the goals you enter. Talk to a clinician for diet or medical decisions. Restaurant nutrition can change; always trust the restaurant’s current labeling when it matters.
+MenuSwap is not medical advice. Calorie and protein targets are estimates from formulas and the goals you enter. Talk to a clinician for diet or medical decisions. Restaurant nutrition can change; always trust the restaurant’s current labeling when it matters.
 
 ## Contact
 
-Questions or data requests: support@swapit.app. If you need a copy of your data before deleting the account, contact us first while the data still exists.
+Questions or data requests: support@menuswap.app. If you need a copy of your data before deleting the account, contact us first while the data still exists.
